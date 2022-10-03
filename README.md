@@ -3,5 +3,7 @@
 
 
 ## contributions 
-made by david 
-I made some great changes to this challenge.
+![Alt text](/assets/images/Screenshot%20(216).png)
+
+
+ https://tdavid99.github.io/CodingRemodel/
